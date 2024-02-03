@@ -1,7 +1,7 @@
 # Analysis of Mobile,TV retail recharges
 ## Objective
 
-To find retailers performance towards custtomers, The profit gained by the retailer, Success rate of the retailer, Operator which shows higher failure rate, prefered recharge rate based on each Operators, Operators which gave more profit to the retailer, customers prefered time for recharging.
+To find retailers performance towards customers, The profit gained by the retailer, Success rate of the retailer, Operator which shows higher failure rate, preferable recharge rate based on each Operators, Operators which gave more profit to the retailer, customers preferable time for recharging.
 ## Insights
 1) Most of the persons doing tv recharges prefer to recharge in the range of 200(average recharge amount is also close to 200)
 2) Within TV or mobile operators , videocon and VI operators has more failure chances. Also, BSNL operator have failure chances.
